@@ -50,5 +50,5 @@ servers:
     restricted: false
   survival:
     motd: '&1SURVIVAL'
-    address: localhost:25566
+    address: 192.168.0.88:25566
     restricted: false
