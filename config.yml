@@ -10,7 +10,7 @@ listeners:
   priorities:
   - hub
   bind_local_address: true
-  host: 0.0.0.0:25577
+  host: 0.0.0.0:25565
   max_players: 40000
   tab_size: 60
   force_default_server: false
